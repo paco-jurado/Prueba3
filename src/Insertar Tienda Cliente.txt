@@ -1,0 +1,8 @@
+TIENDA
+Clientes
+nombre, direccion
+ pepe, malaga
+ juan antonio,torremolinos
+ luis jose, mijas
+ antonio,fuengirola
+ tu,de aqui

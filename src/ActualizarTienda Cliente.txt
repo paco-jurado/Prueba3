@@ -1,0 +1,6 @@
+TIENDA
+Clientes
+id,	nombre,			direccion
+ 1, jose, 
+ 5, juan antonio,	torremolinos
+ 

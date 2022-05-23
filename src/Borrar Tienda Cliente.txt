@@ -1,0 +1,4 @@
+TIENDA
+Clientes
+4,6,12
+ 
